@@ -7,7 +7,7 @@
 
 /* Cores base */
 :root {
-  --fundo: #f9f6f1;
+  --fundo: #bfa489;
   --texto: #2d2d2d;
   --destaque: #d6bfa7;
   --hover: #bfa489;
@@ -26,12 +26,12 @@ header {
   flex-direction: column;
   align-items: center;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #bfa489;
   border-bottom: 1px solid #bfa489;
 }
 
 .logo {
-  max-width: 180px;
+  max-width: 250px;
   margin-bottom: 10px;
 }
 
